@@ -44,11 +44,11 @@ ROS environment.
 The descriptions above are really pretty minimal and you can look into the codes and the world files if you are interested in learning ROS and doing a project to do so.
 
  ## Video snippets of the project
+ You can look at some visuals on these links :
  
-  * Turtlebot3 Implementation : 
-      *
-  * Prius Model Implementation :
-   *
-   *
+  * (Turtlebot3 Implementation)[https://drive.google.com/open?id=1eXp8JXX_nMk8hKcOad40VWAnxlkcOK0g]
+  * (Prius Model Implementation video 1)[] 
+  * (Prius Model Implementaition video 2)[]
+   
  
  
