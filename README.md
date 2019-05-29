@@ -1,7 +1,7 @@
 # Simulation of autonomous car in ROS and Gazebo
 
 This project is motivated by the idea of learning the tools and the environment to simulate
-autonomous vehicles.
+autonomous vehicles. The concepts used are pretty basic and it can be learnt from sources on the internet.
 The objectives that are covered in our project are :
   * To investigate the available methods to simulate autonomous vehicles
   * To build an environment (circuit track) in Gazebo
