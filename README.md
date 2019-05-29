@@ -46,7 +46,7 @@ The descriptions above are really pretty minimal and you can look into the codes
  ## Video snippets of the project
  
   * Turtlebot3 Implementation : 
-   **
+      *
   * Prius Model Implementation :
    *
    *
